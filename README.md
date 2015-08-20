@@ -4,7 +4,7 @@ Load DT chambers data and make plots
 
 # Usage
 
-* Download this project (gif.py and directory data/)
+* Download this project (gif.py and directory structure)
 * Put data files in data/scan_nr/ (for example first scan in data/1/, second in data/2/, ...)
 * Add attenuations time information in gif.py
 
